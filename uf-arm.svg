@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1180" font-family="sans-serif">
+  <rect width="900" height="1180" fill="#f4f4f2"/>
+  <rect width="900" height="72" fill="#16181c"/>
+  <text x="24" y="32" fill="#fff" font-size="26">UF-ARM  五指靈巧手 + 手臂</text>
+  <text x="24" y="58" fill="#ddd" font-size="16">致動器全在近端。手指、手掌、關節是列印件。主梁是 2020 鋁擠型。</text>
+  <text x="24" y="104" fill="#16181c" font-size="20">手背朝你看</text>
+  <g transform="translate(40,120)">
+    <path d="M250 250 L230 150 L250 90 L470 90 L500 150 L480 250 Z" fill="#d9dbdd" stroke="#222"/>
+    <text x="310" y="200" fill="#333" font-size="16">手掌 IF-W1</text>
+    <g>
+      <rect x="150" y="40" width="28" height="70" rx="8" fill="#3a3c40" stroke="#222"/>
+      <rect x="154" y="10" width="20" height="36" rx="6" fill="#d67060" stroke="#222"/>
+      <text x="140" y="130" fill="#333" font-size="13">小指 3</text>
+    </g>
+    <g>
+      <rect x="230" y="20" width="30" height="78" rx="8" fill="#3a3c40" stroke="#222"/>
+      <rect x="235" y="-8" width="20" height="34" rx="6" fill="#d67060" stroke="#222"/>
+      <text x="222" y="118" fill="#333" font-size="13">無名 2</text>
+    </g>
+    <g>
+      <rect x="310" y="8" width="32" height="86" rx="8" fill="#3a3c40" stroke="#222"/>
+      <rect x="316" y="-22" width="20" height="36" rx="6" fill="#d67060" stroke="#222"/>
+      <text x="306" y="112" fill="#333" font-size="13">中指 2</text>
+    </g>
+    <g>
+      <rect x="400" y="20" width="30" height="78" rx="8" fill="#3a3c40" stroke="#222"/>
+      <rect x="405" y="-8" width="20" height="34" rx="6" fill="#d67060" stroke="#222"/>
+      <text x="396" y="118" fill="#333" font-size="13">食指 3</text>
+    </g>
+    <g transform="translate(470,150) rotate(-50)">
+      <rect x="0" y="0" width="26" height="64" rx="8" fill="#3a3c40" stroke="#222"/>
+      <rect x="3" y="-28" width="20" height="32" rx="6" fill="#c45a48" stroke="#222"/>
+    </g>
+    <text x="520" y="250" fill="#333" font-size="13">拇指 4</text>
+    <text x="150" y="290" fill="#555" font-size="14">數字是該指的主動自由度。指尖那一節跟中節連桿連動，不佔馬達。</text>
+  </g>
+  <text x="24" y="470" fill="#16181c" font-size="20">側面。左邊是肩，右邊是手</text>
+  <g transform="translate(30,500)">
+    <rect x="20" y="70" width="70" height="90" fill="#8a8e94" stroke="#222"/>
+    <text x="30" y="185" fill="#333" font-size="13">肩座</text>
+    <circle cx="130" cy="110" r="36" fill="#bcbec2" stroke="#222"/>
+    <text x="108" y="114" fill="#222" font-size="13">肩</text>
+    <rect x="160" y="98" width="150" height="24" fill="#c8ccd0" stroke="#222"/>
+    <text x="175" y="90" fill="#333" font-size="13">2020 上臂</text>
+    <circle cx="340" cy="110" r="28" fill="#e08430" stroke="#222"/>
+    <text x="322" y="158" fill="#333" font-size="13">肘 2 顆</text>
+    <rect x="368" y="78" width="230" height="70" fill="#567e9e" stroke="#222"/>
+    <g fill="#e8c49a" stroke="#222">
+      <rect x="382" y="88" width="28" height="18"/>
+      <rect x="416" y="88" width="28" height="18"/>
+      <rect x="450" y="88" width="28" height="18"/>
+      <rect x="484" y="88" width="28" height="18"/>
+      <rect x="518" y="88" width="28" height="18"/>
+      <rect x="382" y="116" width="28" height="18"/>
+      <rect x="416" y="116" width="28" height="18"/>
+      <rect x="450" y="116" width="28" height="18"/>
+      <rect x="484" y="116" width="28" height="18"/>
+      <rect x="518" y="116" width="28" height="18"/>
+    </g>
+    <text x="400" y="68" fill="#333" font-size="13">前臂伺服匣 14+2</text>
+    <circle cx="630" cy="112" r="22" fill="#9aa8b4" stroke="#222"/>
+    <text x="614" y="156" fill="#333" font-size="13">腕 2</text>
+    <path d="M652 100 L720 88 L760 100 L748 128 L660 124 Z" fill="#d9dbdd" stroke="#222"/>
+    <text x="680" y="156" fill="#333" font-size="13">手</text>
+  </g>
+  <text x="24" y="760" fill="#16181c" font-size="20">一條腱怎麼走</text>
+  <g transform="translate(24,780)">
+    <rect x="0" y="10" width="120" height="36" fill="#e08430" stroke="#222"/>
+    <text x="18" y="34" fill="#222" font-size="14">伺服絞盤</text>
+    <line x1="120" y1="28" x2="250" y2="28" stroke="#b02424" stroke-width="3"/>
+    <rect x="250" y="12" width="150" height="32" fill="#ddd" stroke="#222"/>
+    <text x="268" y="34" fill="#222" font-size="14">PTFE 套管</text>
+    <line x1="400" y1="28" x2="520" y2="28" stroke="#b02424" stroke-width="3"/>
+    <rect x="520" y="8" width="140" height="40" fill="#3a3c40"/>
+    <text x="548" y="34" fill="#fff" font-size="14">手指絞盤</text>
+    <text x="0" y="78" fill="#333" font-size="15">紅色是 Dyneema。伺服只負責拉。放手靠橡皮筋，跟 UF-2J-B 一樣。</text>
+  </g>
+  <g transform="translate(24,900)">
+    <text x="0" y="0" fill="#16181c" font-size="20">先別一次印</text>
+    <text x="0" y="36" fill="#333" font-size="16">1 食指加遠端指節，仍用手轉線輪</text>
+    <text x="0" y="64" fill="#333" font-size="16">2 五指上手掌，還是手拉</text>
+    <text x="0" y="92" fill="#333" font-size="16">3 一顆伺服驅動一指</text>
+    <text x="0" y="120" fill="#333" font-size="16">4 腕、肘、肩。肩和肘的梁用 2020，不用 PLA 當主結構</text>
+  </g>
+</svg>
